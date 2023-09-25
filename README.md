@@ -22,6 +22,8 @@
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Wordpress](https://img.shields.io/badge/-Wordpress-0D1117?style=for-the-badge&logo=wordpress&labelColor=0D1117)&nbsp;
+![photoshop](https://img.shields.io/badge/-adobephotoshop-0D1117?style=for-the-badge&logo=adobephotoshop&labelColor=0D1117)&nbsp;
+![illustrator](https://img.shields.io/badge/-adobeillustrator-0D1117?style=for-the-badge&logo=adobeillustrator&labelColor=0D1117)&nbsp;
 
 
 ### Tools:
