@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#491049height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Marcelo+Pereira;I+from+Brasil,+SP;I+study+Front-End+development+at+Senac+Sjrp;Welcome+my+to+profile!:%29)](https://git.io/typing-svg)
 
@@ -11,7 +11,7 @@
 
   <!--Redes Sociais - Socials Networks-->
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=My+Social+Networks+!!!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&&size=35&center=true&vCenter=true&width=1000&lines=My+Social+Networks+!!!)](https://git.io/typing-svg)
  
  <div> 
   <!--Instagram-->
@@ -25,7 +25,7 @@
 
   <!--main skill-->
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Main+Skills+!!!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&&size=35&center=true&vCenter=true&width=1000&lines=Main+Skills+!!!)](https://git.io/typing-svg)
   
   
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
@@ -36,7 +36,7 @@
 
   <!--tools-->
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Tools+!!!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&&size=35&center=true&vCenter=true&width=1000&lines=Tools+!!!)](https://git.io/typing-svg)
   
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
