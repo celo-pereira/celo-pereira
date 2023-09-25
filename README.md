@@ -51,12 +51,20 @@
 <hr>
 
 
-
-
-
 ### Studying in this moment:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 
+<hr>
+
+
+
+<!--Hackern Image -->
+ 
+[![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://arjuncvinod.github.io)
+<!--End Hacker Image -->
+  
+<!--Gif Final - End Gif-->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
   
 
