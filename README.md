@@ -10,10 +10,6 @@
 <hr>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=celo-pereira&size_weight=0.5&count_weight=0.5)](https://github.com/celo-pereira/github-readme-stats)
-
-
-
   <!--Redes Sociais - Socials Networks-->
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&&size=35&center=true&vCenter=true&width=1000&lines=My+Social+Networks+!!!)](https://git.io/typing-svg)
