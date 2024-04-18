@@ -26,7 +26,7 @@ Vamos construir o futuro juntos! 😊
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&&size=35&center=true&vCenter=true&width=1000&lines=My+Social+Networks+!!!)](https://git.io/typing-svg)
 
-<div style="display: flex; justify-content: center;">
+<div style="text-align: center;">
     <!-- Instagram -->
     <a href="https://instagram.com/mp.designer.interiores?igshid=OGQ5ZDc2ODk2ZA==" target="_blank">
         <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
@@ -40,6 +40,7 @@ Vamos construir o futuro juntos! 😊
         <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
     </a>
 </div>
+
 
  <hr>
    
