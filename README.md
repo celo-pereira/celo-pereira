@@ -29,7 +29,7 @@ Vamos construir o futuro juntos! 😊
 
 <div align="center";>
     <!-- Instagram -->
-    <a href="https://instagram.com/mp.designer.interiores?igshid=OGQ5ZDc2ODk2ZA==" target="_blank">
+    <a href="https://instagram.com/marcelo.pereira_dev?igshid=OGQ5ZDc2ODk2ZA==" target="_blank">
         <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
     </a>
     <!-- LinkedIn -->
