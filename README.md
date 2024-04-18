@@ -2,6 +2,19 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Marcelo+Pereira;I+from+Brazil,+SP;I+Desenvolvedor Front+Cad+designer+End+at+Senac+Sjrp;Welcome+my+to+profile!:%29)](https://git.io/typing-svg)
 
+### Olá! 👋
+
+Meu nome é Marcelo Pereira e sou um Desenvolvedor Front-End e CAD Designer apaixonado por tecnologia e inovação. Atualmente, estou cursando Técnico em Informática no Senac São José do Rio Preto-SP.
+
+🌱 Estou constantemente aprendendo e aprimorando minhas habilidades em desenvolvimento web e design de maquete eletrônica.
+
+🚀 Estou em busca de oportunidades para aplicar meus conhecimentos e contribuir para projetos desafiadores.
+
+📫 Você pode entrar em contato comigo pelo e-mail marcelorp_tec@outlook.com.
+
+Vamos construir o futuro juntos! 😊
+
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=celo-pereira&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="celo-pereira github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celo-pereira&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
