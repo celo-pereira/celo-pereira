@@ -3,7 +3,7 @@
 
 ### Olá! 👋
 
-Meu nome é Marcelo Pereira e sou um Desenvolvedor Front-End e CAD Designer, apaixonado por tecnologia e inovação. Atualmente, estou cursando Técnico em Informática no Senac São José do Rio Preto-SP.
+Meu nome é Marcelo Pereira e sou um Desenvolvedor Front-End e CAD Designer, apaixonado por tecnologia e inovação. Atualmente, estou cursando Análise e Desenvolvimento de Sistema na Unicesumar 
 
 🌱 Estou constantemente aprendendo e aprimorando minhas habilidades em desenvolvimento web e design de maquete eletrônica.
 
