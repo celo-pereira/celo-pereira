@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#491049height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#052d7dheight=120&section=header"/>
 
 
 ### Olá! 👋
@@ -106,7 +106,7 @@ Vamos construir o futuro juntos! 😊
 <!--End Hacker Image -->
   
 <!--Gif Final - End Gif-->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#491049height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#052d7dheight=120&section=header"/>
 
   
 
