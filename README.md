@@ -95,13 +95,6 @@ Vamos construir o futuro juntos! 😊
 
 <hr>
 
-### 🐍 Snake eating my contributions
-<div align="center">
-
-![Snake animation](https://github.com/celo-pereira/celo-pereira/raw/output/github-snake.svg)  
-![Snake dark](https://github.com/celo-pereira/celo-pereira/raw/output/github-snake-dark.svg)  
-![Snake gif](https://github.com/celo-pereira/celo-pereira/raw/output/ocean.gif)  
-
 </div>
 
 <!-- Hacker Image -->
