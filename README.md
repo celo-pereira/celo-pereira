@@ -94,6 +94,8 @@ Vamos construir o futuro juntos! 😊
 
 
 <hr>
+
+<hr>
 - uses: Platane/snk@v3
   with:
     # github user name to read the contribution graph from (**required**)
@@ -113,9 +115,6 @@ Vamos construir o futuro juntos! 😊
       dist/github-snake.svg
       dist/github-snake-dark.svg?palette=github-dark
       dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-
-<hr>
-
 
 
 <!--Hackern Image -->
