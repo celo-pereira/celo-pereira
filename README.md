@@ -1,8 +1,4 @@
 
-<!-- ================================= -->
-<!-- MARCELO PEREIRA | UNDERGROUND BR -->
-<!-- ================================= -->
-
 <div align="center">
 
 <img width="100%" src="./assets/banner.png" alt="Marcelo Pereira - Street Digital"/>
