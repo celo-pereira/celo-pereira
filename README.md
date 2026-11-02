@@ -1,104 +1,125 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=052d7d&height=120&section=header"/>
 
-### Olá! 👋
-
-Meu nome é Marcelo Pereira e sou um Desenvolvedor Front-End e CAD Designer, apaixonado por tecnologia e inovação. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unicesumar.
-
-🌱 Estou constantemente aprendendo e aprimorando minhas habilidades em desenvolvimento web e design de maquete eletrônica.  
-
-🚀 Estou em busca de oportunidades para aplicar meus conhecimentos e contribuir para projetos desafiadores.  
-
-📫 Você pode entrar em contato comigo pelo e-mail **marcelorp_tec@outlook.com**.  
-
-Vamos construir o futuro juntos! 😊  
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=celo-pereira&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="celo-pereira github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celo-pereira&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
-
-<hr>
-
-<!-- Redes Sociais - Socials Networks -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&&size=35&center=true&vCenter=true&width=1000&lines=My+Social+Networks+!!!)](https://git.io/typing-svg)
+<!-- ================================= -->
+<!-- MARCELO PEREIRA | UNDERGROUND BR -->
+<!-- ================================= -->
 
 <div align="center">
-    <!-- Instagram -->
-    <a href="https://instagram.com/marcelo.pereira_dev?igshid=OGQ5ZDc2ODk2ZA==" target="_blank">
-        <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-    </a>
-    <!-- LinkedIn -->
-    <a href="https://www.linkedin.com/in/marcelo-pereira-765b7b219/" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-    </a>
-    <!-- Email -->
-    <a href="mailto:marcelorp_tec@outlook.com">
-        <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-    </a>
+
+<img width="100%" src="./assets/banner.png" alt="Marcelo Pereira - Street Digital"/>
+
+# MARCELO PEREIRA
+### `DESENVOLVEDOR FRONT-END • CAD DESIGNER • GAMER`
+
+**DA QUEBRADA PARA O MUNDO DIGITAL.**
+
+`CODE` • `CREATE` • `DOMINATE`
+
+[![GitHub](https://img.shields.io/badge/GitHub-101010?style=for-the-badge&logo=github&logoColor=white)](https://github.com/celo-pereira)
+[![Tecnologia](https://img.shields.io/badge/TECH-DC2626?style=for-the-badge&logo=code&logoColor=white)](https://github.com/celo-pereira)
+[![Brasil](https://img.shields.io/badge/UNDERGROUND-BR-009739?style=for-the-badge)](https://github.com/celo-pereira)
+
 </div>
 
-<hr>
+---
 
-<!-- Main Skills -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&&size=35&center=true&vCenter=true&width=1000&lines=Main+Skills+!!!)](https://git.io/typing-svg)
+## ⚡ SOBRE MIM
+
+Salve! Eu sou **Marcelo Pereira**.
+
+Sou estudante de Análise e Desenvolvimento de Sistemas, desenvolvedor Front-End, CAD Designer e apaixonado por tecnologia.
+
+Minha inspiração vem da cultura urbana, do hip-hop, dos games e da criatividade brasileira.
+
+Acredito que programação é mais do que escrever código: é transformar ideias em realidade.
+
+> DA RUA PARA A TELA. DA IDEIA PARA O CÓDIGO.
+
+---
+
+## 💻 TECNOLOGIAS & SKILLS
 
 <div align="center">
-<p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/>
-  </a>
-</p>
+
+![HTML5](https://img.shields.io/badge/HTML5-101010?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-101010?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-101010?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-101010?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-101010?style=for-the-badge&logo=angular&logoColor=DD0031)
+![NodeJS](https://img.shields.io/badge/Node.js-101010?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+
+![Git](https://img.shields.io/badge/Git-101010?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-101010?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-101010?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/Figma-101010?style=for-the-badge&logo=figma&logoColor=F24E1E)
+
 </div>
 
-<hr>
+---
 
-<!-- Tools -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&&size=35&center=true&vCenter=true&width=1000&lines=Tools+!!!)](https://git.io/typing-svg)
+## 🚀 PROJETOS & CRIAÇÕES
+
+| Projeto | Descrição |
+|---|---|
+| Web Development | Sites e aplicações web |
+| Mobile | Projetos com React Native |
+| Archviz | Visualização arquitetônica |
+| The Darknest | Identidade e comunidade gamer |
+| Street Digital | Tecnologia e identidade urbana |
+
+Confira meus projetos:
+
+[![Repositories](https://img.shields.io/badge/EXPLORAR_REPOSITÓRIOS-DC2626?style=for-the-badge&logo=github&logoColor=white)](https://github.com/celo-pereira?tab=repositories)
+
+---
+
+## 📊 GITHUB STATUS
 
 <div align="center">
-  
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=celo-pereira&show_icons=true&theme=dark&bg_color=101010&title_color=DC2626&icon_color=00BFFF&text_color=FFFFFF&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=celo-pereira&layout=compact&theme=dark&bg_color=101010&title_color=DC2626&text_color=FFFFFF&hide_border=true)
+
+![Streak](https://streak-stats.demolab.com?user=celo-pereira&theme=dark&background=101010&ring=DC2626&fire=DC2626&currStreakLabel=00BFFF&hide_border=true)
 
 </div>
 
-<hr>
+---
 
-<!-- Other Knowledge -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Other+Knowledge+!!!)](https://git.io/typing-svg)
+## 🎧 BEYOND THE CODE
 
 <div align="center">
-  
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+
+| CULTURA | IDENTIDADE |
+|---|---|
+| 🎤 Hip-Hop / Rap Nacional | 🎨 Graffiti |
+| 🎮 Call of Duty / FPS | 💻 Tecnologia |
+| 🏙️ Cultura Underground | 🚀 Criatividade |
+
+**FROM THE STREETS TO THE CODE.**
 
 </div>
 
-<hr>
+---
+
+## 🤝 CONECTE-SE COMIGO
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-101010?style=for-the-badge&logo=github)](https://github.com/celo-pereira)
 
 </div>
 
-<!-- Hacker Image -->
-[![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://arjuncvinod.github.io)
-<!-- End Hacker Image -->
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=052d7d&height=120&section=footer"/>
+<div align="center">
+
+### 🏴 MARCELO PEREIRA
+
+**TECNOLOGIA É MINHA ARMA. CRIATIVIDADE É MINHA IDENTIDADE.**
+
+`TRABALHO • FOCO • EVOLUÇÃO`
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:101010,50:DC2626,100:101010&height=120&section=footer"/>
+
+</div>
